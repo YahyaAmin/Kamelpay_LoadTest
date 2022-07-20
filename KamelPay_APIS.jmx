@@ -2161,7 +2161,7 @@
                 </elementProp>
                 <elementProp name="search" elementType="HTTPArgument" enabled="true">
                   <stringProp name="Argument.name">search</stringProp>
-                  <stringProp name="Argument.value">The gujarat STATE</stringProp>
+                  <stringProp name="Argument.value">ThegujaratSTATE</stringProp>
                   <stringProp name="Argument.desc">search</stringProp>
                   <stringProp name="Argument.metadata">=</stringProp>
                   <boolProp name="HTTPArgument.always_encode">false</boolProp>
